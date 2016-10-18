@@ -6,3 +6,4 @@ main()
 printf("hi");
 }
 getch();
+//the end
